@@ -1,4 +1,4 @@
-### TransLoc 👋
+### [Welcome to the TransLoc Blog 👋](https://github.com/ConservationTranslocation/ConservationTranslocation.github.io/blob/bbees/blog/welcome.md)
 
 <!--
 **ConservationTranslocation/ConservationTranslocation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
